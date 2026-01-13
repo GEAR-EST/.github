@@ -33,9 +33,9 @@ Acompanhe nossos projetos e atividades:
 
 ## Saiba Mais
 
-- 🔭 Estamos trabalhando atualmente em 5 categorias de robôs: Seguidor/Perseguidor de Linha, Mini Sumô 500g, Robô Sumô 3kg e ArtBot
+- 🔭 Estamos trabalhando atualmente em 4 categorias de robôs: Seguidor de Linha, Mini Sumô 500g, BeetleWeight e ArtBot
 - 🏆 A principal competição que participamos é a [RoboCore Experience](https://www.robocoreexperience.com/), maior evento de batalha de robôs da América Latina
 - 🌱 Estamos sempre buscando aprender assuntos novos e soluções inovadoras para os problemas encontrados
 - 👥 Procuramos colaborar para a comunidade acadêmica e para o incentivo à robótica na região Amazônica
 - 🤔 Procuramos ajuda com pessoas que acreditam na nossa misão de levar a robótica do Amazonas para todo Brasil
-- 📫 Como entrar em contato: gear@uea.edu.br
+- 📫 Contato: gear@uea.edu.br
